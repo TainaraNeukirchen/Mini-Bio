@@ -1,0 +1,25 @@
+body{
+    background: black;
+    color:#a81e84;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: rgb(28, 123, 123);
+}
+
+nav{
+    color: rgb(26, 150, 109);
+}
+
+.containerS{
+    padding: 0px 50px;
+    
+}
+
+header img{
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    padding: 30px;
+}
